@@ -32,8 +32,15 @@ The analysis follows a structured data science workflow:
     * `seaborn`: Statistical data visualization.
     * `matplotlib`: Plotting and graph generation.
     * `regex`: Pattern matching for system requirements.
+## 📊 Dataset
+The dataset used in this analysis is too large to be hosted on GitHub. 
+You can download the original data from Kaggle:
+[Steam Games Complete Dataset](https://www.kaggle.com/datasets/trolukovich/steam-games-complete-dataset)
+
+To run the notebook, download the `steam_games.csv` and place it in the project root directory.
 
 ## 🚀 Getting Started
+
 
 ### Prerequisites
 
